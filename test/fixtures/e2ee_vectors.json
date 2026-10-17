@@ -1,0 +1,77 @@
+[
+  {
+    "password": "correct horse battery",
+    "kdf": {
+      "type": "scrypt",
+      "n": 16384,
+      "r": 8,
+      "p": 1,
+      "salt": "AAECAwQFBgcICQoLDA0ODw=="
+    },
+    "authKey": "XRDVuWTu4ihQ+TLmcfD1CNY0XgIOIrmkgJt+oT0BwtQ=",
+    "wrapKey": "0SrAJaW3xB/RIbazBjHjWit4VWvX/FIFl/jHoWLXYrM=",
+    "vaultKey": "kCjqDRXeyqNbLaIcApCvOxpboKMKWRkG+JtQdOIJ6nI=",
+    "encryptedVaultKey": "v1.d5UJ54c/ONrnqFWmEz8vAgPHWRgTqk5dhnliIwpzsoGcRN+eK3Wz7y5qm3tK7lVnS4KRwjoLJ6Jd+NsL",
+    "record": {
+      "title": "测试账号",
+      "password": "p@ss",
+      "n": 1,
+      "ok": true,
+      "list": [
+        1,
+        "a"
+      ]
+    },
+    "payload": "v1.W7CdArRai2o3JZq6L0/FarqXFZPfzTTslYwNnsHrWIXGGUk4iWVRExKeSI8eA/9LmoUFVo6CCfvA8G2gyge7V5InEswR4RRTTnjS0mRDtT/WvJqMBwbct4iqF1WYRxHKcWApjRU="
+  },
+  {
+    "password": "Ｐａｓｓ ﬁ 密码①",
+    "kdf": {
+      "type": "scrypt",
+      "n": 16384,
+      "r": 8,
+      "p": 1,
+      "salt": "q83vASNFZ4mrze8BI0VniQ=="
+    },
+    "authKey": "YaUlxDlR1W4I62NCsFFYExsyApVV5gukj2Ug7ibpfy8=",
+    "wrapKey": "Eqv92EUz3TRU2duOgyxccnDFh8q/MmGiUaLNfp4SyM0=",
+    "vaultKey": "B73Z8nYkAdAcQ4ICiiVMMMJq4ELlQTOEPcRNZ2bpkXM=",
+    "encryptedVaultKey": "v1.vQ42GQMxMzdWndUCLxCFnWiPDdhGtuYo63EyY+QR1NLSAu+67fMNhctWyoQRxjeLilTZIasLyzf+zaXx",
+    "record": {
+      "title": "测试账号",
+      "password": "p@ss",
+      "n": 1,
+      "ok": true,
+      "list": [
+        1,
+        "a"
+      ]
+    },
+    "payload": "v1.V7X+VRX12pHwMFcvZwTWMF9TQhyW9xNkUkulFyALo9uDffysSg/Nm5zWIumRNFbaYorz1DqCT79NA4e1WtVj5qC5dBqcD2oIsCFn92ooCaRLmuEQrokkAzsoqUGPH8GLGC/p46A="
+  },
+  {
+    "password": "devvault-prod-params",
+    "kdf": {
+      "type": "scrypt",
+      "n": 131072,
+      "r": 8,
+      "p": 1,
+      "salt": "3q2+7wAAAAAAAAAAAAAAAA=="
+    },
+    "authKey": "LIekIMoqWpJe5xqXpUqawlggyk510/6DBMaJnYHQkcg=",
+    "wrapKey": "Oh/58h4Ry1fD/kcNhci2YOkXSh4blNdntYlEETxkfDY=",
+    "vaultKey": "u5aIX3dYdfzuNnOdWEj/MVww2CYmv1yVOObEQ3IqVPQ=",
+    "encryptedVaultKey": "v1.sMdqXZkh6alkhDSq7qxvEfkjAyWtSZgsG19PZ5gNK6H1Yr9IeW+VAm+hUSdGMpU+Viz152+J9B3Qvye2",
+    "record": {
+      "title": "测试账号",
+      "password": "p@ss",
+      "n": 1,
+      "ok": true,
+      "list": [
+        1,
+        "a"
+      ]
+    },
+    "payload": "v1.M0SpalcbcLn2SLZ7z8AHSdH4GLqJqtgDtIM5FCnpUccN54rPgxn1f/oz6tD5sfMpbR2TGFvcWEoYxjBJXg0QF5X7yG+vAbSHCCGZODvU6aECv3EtC0Ajiai2pgHqIrBEY52NWXc="
+  }
+]
